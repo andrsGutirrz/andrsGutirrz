@@ -22,16 +22,12 @@ I craft robust microservices with Python while navigating the clouds with confid
 
 ## 💼 Current Project
 
-I'm developing a custom dev portal with Kong Gateway:
-- 🔄 Backend built with **Dotnet 8**
-- 🖥️ Frontend using **Vue.js**
-- 🗄️ **MongoDB** for database
-- ☁️ **Azure** as our underlying cloud infrastructure
+I'm learning and putting in practice generative AI:
+- ☁️ AWS Bedrock service to access several models
+- 🧠 Learning about RAG
 
 ## 🌐 Connect With Me
 🔗 LinkedIn: [andres-gutierrez-arcia](https://www.linkedin.com/in/andres-gutierrez-arcia/)
-
-
 
 
 ---
